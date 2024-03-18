@@ -1,0 +1,27 @@
+*{
+	padding:10px;
+	margin: 0px;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+.heading{
+	font-weight: bolder;
+	font-family: Arial Black;
+	font-size: 35px;
+	color: purple;
+
+}
+.textboxform label{
+	color: seagreen;
+	font-weight: bolder;
+
+}
+.textboxform button{
+	color: wheat;
+    background-color: darkred ;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
